@@ -2,6 +2,20 @@
 
 A production-ready backend REST API for a food ordering system with role-based and country-based access control.
 
+## 🚀 Live Deployment
+
+👉 Base URL  
+https://sloozebackendassignment.onrender.com
+
+👉 Health Check Endpoint  
+https://sloozebackendassignment.onrender.com/api/health
+
+✅ If the server is running, it will return:
+{
+  "success": true,
+  "message": "Server is running"
+}
+
 ## Tech Stack
 
 - Node.js + Express.js
