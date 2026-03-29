@@ -1,0 +1,7 @@
+{
+  "name": "Manager USA",
+  "email": "manager.usa@example.com",
+  "password": "manager123",
+  "role": "Manager",
+  "country": "America"
+}

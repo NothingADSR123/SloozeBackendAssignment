@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "name": "Butter Chicken",
+      "price": 350,
+      "quantity": 2
+    },
+    {
+      "name": "Naan",
+      "price": 50,
+      "quantity": 3
+    }
+  ]
+}
